@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+
+.flex{
+    display: flex;
+}
+
+.justify-content{
+    justify-content: space-between;
+}
+
+.align-items{
+    align-items: center;
+}
+
+header{
+    background-color: black;
+    color: white;
+}
+
+header nav a{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.bolder{
+    font-weight: bolder;
+    color: violet;
+}
+
+/* main page */
+
+.banner{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    height: 400px;
+    font-size: 40px;
+}
+
+/* content page */
+
+form{
+    width: 80%;
+    margin: 20px auto;
+}
