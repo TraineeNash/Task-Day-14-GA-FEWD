@@ -42,7 +42,7 @@ header nav a{
 
 /* content page */
 
-form{
+.form{
     width: 80%;
     margin: 20px auto;
 }
